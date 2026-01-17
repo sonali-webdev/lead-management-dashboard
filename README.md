@@ -8,10 +8,10 @@ This project allows users to manage leads with search, filters, pagination, anal
 ## 🚀 Live Demo
 
 - **Frontend (Vercel):**  
-  👉 https://YOUR_FRONTEND_URL.vercel.app
+  👉 https://lead-management-dashboard-gamma.vercel.app/
 
 - **Backend (Render):**  
-  👉 https://YOUR_BACKEND_URL.onrender.com
+  👉 https://lead-management-dashboard-ei2j.onrender.com
 
 ---
 
